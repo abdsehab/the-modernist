@@ -1,0 +1,61 @@
+@media screen and (min-width: 200px) and (max-width: 991px) {
+    .mean-container .mean-nav ul li a.mean-expand{ padding: 10px !important; }
+
+    
+    .logo_area {
+        width: 100%;
+        margin: 20px;
+        
+    }
+    
+    .header-container {
+        display: inline-block;
+        
+    }
+
+    .img-area{
+        margin: 20px 35px;
+    }
+
+    .slider_container {
+        width: 100%; 
+    }
+
+    .service-container > * {
+        flex: 1 1 40%;
+    }
+
+    .service img {
+        margin: 25% 20% 20px 30%;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+    
