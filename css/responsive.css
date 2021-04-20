@@ -26,36 +26,79 @@
     }
 
     .service img {
-        margin: 25% 20% 20px 30%;
+        margin: 0;
+        padding: 15px;
+    }
+
+}
+
+   
+@media screen and (min-width: 200px) and (max-width: 480px){
+
+    .text-area{
+        padding: 0;
+        margin: 0;
+    }
+
+    .text-area p{
+        margin-bottom: 10px;
+    }
+
+    .bx-wrapper .bx-controls-direction a{
+        display: none;
+    }
+
+    .bx-wrapper .bx-controls-direction a{
+        display: none;
+    }
+
+    .img-area img{
+        
+        width: 200px;
+        height: 200px;
+        
+        margin: 100px 0px;
+    }
+
+    .slider-area-button{
+        margin: 20px;
+    }
+    
+
+    
+
+    .slider-area-button a{
+        padding: 10px;
     }
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     
